@@ -1,10 +1,14 @@
-# RP Mail
+# RP Mail - Experimental Prototype
 
-A Windows desktop application for reviewing potential relationships between research projects and research outputs in Research Portal+ (RP+), and contacting researchers from a personal email account.
+An experimental Windows desktop prototype exploring how to review potential relationships between research projects and research outputs in Research Portal+ (RP+), and contacting researchers from a personal email account.
 
-**Initial release: v0.1.0**
+**Status: Experimental prototype - work in progress.**
 
-## Features
+This repository is an early attempt to explore the workflow. It is not a completed project deliverable or a production-ready system. The existing functionality and limited tests support evaluation only; broader validation and further development are still needed.
+
+**Prototype version: v0.1.0**
+
+## Implemented Prototype Features
 
 - Import CSV or Excel (.xlsx) files, edit records, and preview confirmation emails.
 - Find publicly listed email addresses through researcher profiles linked from RP+ project pages.
