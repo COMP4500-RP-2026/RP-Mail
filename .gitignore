@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.exe
+*.zip
+*.log
+*.sqlite3*
+personal_data/
+preview/
+mailing_list.csv
+config.json
+config.outlook.json
+.env
+.env.*
+!*.example.json

@@ -1,0 +1,2 @@
+output_uuid,project_uuid,project_code,title,already_in_relations,output_url,project_url,researcher_name,researcher_email,project_name,suggestion_reason,reviewed
+demo-output,demo-project,DEMO-GRANT,Fictional research output,FALSE,https://researchportalplus.anu.edu.au/en/publications/demo-output/,https://researchportalplus.anu.edu.au/en/projects/demo-project/,,,Fictional project,,
